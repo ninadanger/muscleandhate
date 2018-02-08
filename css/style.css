@@ -21,6 +21,13 @@ ul{
   padding: 0;
 }
 
+.dark{
+  padding:5px;
+  color: #ffffff;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
 /* Header **/
 header{
   background:#000000;
@@ -82,4 +89,18 @@ header a:hover{
   right:80%;
   padding: 5px;
   padding-top: 340px;
+}
+
+
+
+/* Main-col*/
+article#main-col{
+  float:left;
+  width:95%;
+  margin-top: 25px
+}
+
+article:hover{
+  color:#ff7e46;
+
 }
